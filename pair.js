@@ -124,9 +124,8 @@ router.get('/', async (req, res) => {
 2️⃣ Stay updated with our latest releases and support.
 3️⃣ Enjoy seamless WhatsApp automation! 🤖  
 
-🔗 *Join Our Support Channel:* 👉 [Click Here to Join](https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z) 
-
-⭐ *Show Some Love!* Give us a ⭐ on GitHub and support the developer of: 👉 [Malvin King GitHub Repo](https://github.com/kingmalvn/)  
+🔗 *Join Our Support Channel:* 👉 [Click Here to Join](https://whatsapp.com/channel/0029VbAcVxhBA1f3sothp61e)
+⭐ *Show Some Love!* Give us a ⭐ on GitHub and support the developer of: 👉 [Sang Lee GitHub Repo](https://github.com/beamer254/)  
 
 🚀 _Thanks for choosing BEAMER-XMD— Let the automation begin!_ ✨`;
 
